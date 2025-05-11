@@ -1,7 +1,8 @@
+[🇨🇳 简体中文](#简体中文) | [🇺🇸 English](#english)
+
 # GitHub 新标签页打开
 
-<details>
-<summary>🇨🇳 简体中文（默认） | 🇺🇸 English</summary>
+<a name="简体中文"></a>
 
 <div align="center">
   <img src="https://github.githubassets.com/favicons/favicon.svg" width="80" height="80" alt="Logo">
@@ -50,12 +51,13 @@
 
 ## 📜 许可证
 
-[MIT License](LICENSE) © Buggo404 
+[MIT License](LICENSE) © Buggo404
 
-</details>
+---
 
-<details>
-<summary>🇺🇸 English (Click to expand)</summary>
+<a name="english"></a>
+
+# GitHub New Tab Links
 
 <div align="center">
   <img src="https://github.githubassets.com/favicons/favicon.svg" width="80" height="80" alt="Logo">
@@ -104,6 +106,4 @@ Feel free to submit Issues or Pull Requests to improve this script!
 
 ## 📜 License
 
-[MIT License](LICENSE) © Buggo404 
-
-</details>
+[MIT License](LICENSE) © Buggo404
