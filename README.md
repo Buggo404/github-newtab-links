@@ -26,7 +26,7 @@
 1. 首先安装浏览器扩展 [Tampermonkey](https://www.tampermonkey.net/)
 2. 点击下面的安装链接：
 
-[📦 点击安装脚本](https://github.com/Buggo404/github-newtab-links/raw/main/github_links_new_tab.js)
+[📦 点击安装脚本](https://www.tampermonkey.net/script_installation.php#url=https://update.greasyfork.org/scripts/535632/GitHub%20%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5%E6%89%93%E5%BC%80.user.js)
 
 ## 💡 使用说明
 
