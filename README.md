@@ -2,7 +2,7 @@
 
 # GitHub 新标签页打开
 
-<a name="简体中文"></a>
+<a name="chinese"></a>
 
 <div align="center">
   <img src="https://github.githubassets.com/favicons/favicon.svg" width="80" height="80" alt="Logo">
