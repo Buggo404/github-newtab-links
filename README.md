@@ -1,5 +1,8 @@
 # GitHub 新标签页打开
 
+<details>
+<summary>🇨🇳 简体中文（默认） | 🇺🇸 English</summary>
+
 <div align="center">
   <img src="https://github.githubassets.com/favicons/favicon.svg" width="80" height="80" alt="Logo">
   <h3>为 GitHub 添加新标签页打开功能</h3>
@@ -48,3 +51,59 @@
 ## 📜 许可证
 
 [MIT License](LICENSE) © Buggo404 
+
+</details>
+
+<details>
+<summary>🇺🇸 English (Click to expand)</summary>
+
+<div align="center">
+  <img src="https://github.githubassets.com/favicons/favicon.svg" width="80" height="80" alt="Logo">
+  <h3>Add New Tab Opening Feature for GitHub</h3>
+  <p>An elegant browser script that makes GitHub links open in new tabs by default, enhancing your browsing experience.</p>
+  
+  ![GitHub stars](https://img.shields.io/github/stars/Buggo404/github-newtab-links?style=for-the-badge)
+  ![GitHub license](https://img.shields.io/github/license/Buggo404/github-newtab-links?style=for-the-badge)
+  ![Tampermonkey](https://img.shields.io/badge/Tampermonkey-Supported-green?style=for-the-badge)
+</div>
+
+## ✨ Features
+
+- All links on GitHub open in a new tab by default
+- Modern dropdown menu at the top right for switching link opening behavior anytime
+- Beautiful UI, seamlessly integrated with GitHub's native interface
+- Settings are auto-saved and persist after browser restart
+
+## 🎬 Preview
+
+![Script Preview](img/1.png)
+
+## 🚀 Installation
+
+1. First, install the [Tampermonkey](https://www.tampermonkey.net/) browser extension
+2. Click the link below to install the script:
+
+[📦 Install Script](https://www.tampermonkey.net/script_installation.php#url=https://update.greasyfork.org/scripts/535632/GitHub%20%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5%E6%89%93%E5%BC%80.user.js)
+
+## 💡 Usage
+
+No configuration needed after installation. The script will automatically take effect on GitHub pages. You can switch the link opening mode anytime via the dropdown menu at the top right:
+
+- 🌐 **Open in New Tab**: All links will open in a new tab
+- 📌 **Open in Current Tab**: Restore default behavior, open links in the current page
+
+## 🛠️ Technical Details
+
+- Uses Tampermonkey API to store user settings
+- Adapts to GitHub's dark/light themes
+- Handles dynamically loaded content with MutationObserver
+
+## 🤝 Contributing
+
+Feel free to submit Issues or Pull Requests to improve this script!
+
+## 📜 License
+
+[MIT License](LICENSE) © Buggo404 
+
+</details>
