@@ -1,4 +1,4 @@
-[**简体中文**](#简体中文) | [English](#english)
+[**简体中文**](#chinese) | [English](#english)
 
 # GitHub 新标签页打开
 
@@ -59,7 +59,7 @@
 
 # GitHub New Tab Links
 
-[简体中文](#简体中文) | [**English**](#english)
+[简体中文](#chinese) | [**English**](#english)
 
 <div align="center">
   <img src="https://github.githubassets.com/favicons/favicon.svg" width="80" height="80" alt="Logo">
