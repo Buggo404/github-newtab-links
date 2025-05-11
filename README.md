@@ -56,9 +56,9 @@
 
 <a name="english"></a>
 
-# GitHub New Tab Links
-
 [简体中文](#chinese) | [**English**](#english)
+
+# GitHub New Tab Links
 
 <div align="center">
   <img src="https://github.githubassets.com/favicons/favicon.svg" width="80" height="80" alt="Logo">
